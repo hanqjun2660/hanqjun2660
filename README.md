@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&fontColor=ffffff&color=gradient&fontAlign=85&fontAlignY=43&animation=fadeIndescAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Hello&fontColor=ffffff&color=gradient&fontAlign=85&fontAlignY=43&animation=fadeIn&descAlignY=62&descAlign=62)
  <br/>
  <br/>
   
